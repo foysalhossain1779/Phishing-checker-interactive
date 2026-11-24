@@ -1,0 +1,14 @@
+From: Billing Department <billing@acme-vendor.com>
+Reply-To: payments@acme-billing-support.net
+Return-Path: <billing@acme-vendor.com>
+Subject: Updated invoice payment details - please confirm
+Authentication-Results: mx.google.com;
+ spf=pass;
+ dkim=pass;
+ dmarc=pass
+Content-Type: text/plain; charset="utf-8"
+
+Hi team,
+We updated our payment details for this month's invoice.
+Please review the updated portal here:
+https://bit.ly/acme-inv-2026

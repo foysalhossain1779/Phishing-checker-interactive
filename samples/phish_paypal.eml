@@ -1,0 +1,14 @@
+From: PayPal Security <security-alert@gmail.com>
+Reply-To: support@verify-account-now.xyz
+Return-Path: <bounce@mailer-unknown.ru>
+Subject: URGENT: Your PayPal account is suspended - action required
+Authentication-Results: mx.google.com;
+ spf=fail (google.com: best guess record);
+ dkim=none;
+ dmarc=fail
+Content-Type: text/plain; charset="utf-8"
+
+Hello,
+Your account has been limited. Confirm your password immediately:
+http://198.51.100.42/paypal-login
+https://bit.ly/3xFakeLink

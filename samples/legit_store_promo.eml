@@ -1,0 +1,21 @@
+From: GameStore <noreply@example-gamestore.com>
+Reply-To: <noreply@example-gamestore.com>
+Return-Path: <noreply@example-gamestore.com>
+Subject: Weekend Sale: 3 items on your wishlist are discounted
+Authentication-Results: mx.google.com;
+ spf=pass;
+ dkim=pass;
+ dmarc=pass
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <body>
+    <img src=3D"https://cdn.fastly.assets.example-gamestore.com/logo.png" />
+    <img src=3D"https://img.fastly.assets.example-gamestore.com/banner.jpg" />
+    <p>Check out the weekend sale here:</p>
+    <a href=3D"https://store.example-gamestore.com/sale/week=
+end-deals">View Wishlist</a>
+  </body>
+</html>
